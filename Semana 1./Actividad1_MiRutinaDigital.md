@@ -94,13 +94,7 @@ tu-repositorio/
 
 **C2. README.md.** Debe incluir tu nombre, el nombre del curso y una descripción de 2 a 3 líneas de lo que contiene el repositorio. **No incluyas** correo, teléfono ni datos personales sensibles: es un repositorio público.
 
-**C3. Historial de commits.** Debes tener un mínimo de **3 commits**, hechos conforme avanzas y no todos al final, con mensajes que describan el cambio. Ejemplos:
-
-```
-docs: agregar README del curso
-docs: agregar algoritmo y diagrama de flujo de la actividad 1
-feat: completar calculadora de tiempo digital en notebook
-```
+**C3. Historial de commits.** Debes tener un mínimo de **3 commits**, hechos conforme avanzas y no todos al final, con mensajes que describan e1
 
 **C4. Evidencia de instalación.** Incluye en tu PDF una captura de la terminal con la salida de `git --version` y `git config user.name`.
 
