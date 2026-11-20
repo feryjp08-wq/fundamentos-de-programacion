@@ -2,5 +2,5 @@
 Alumno: Fernanda Yvonne Juárez Plaza
 Matricula: 3084460
 Tecmilenio Querétaro
-Semana 5 / Actividad 4
+Semana 6 / certificado
 
