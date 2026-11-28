@@ -1,0 +1,6 @@
+26/11/2026|Fernanda|Daniela López|Corte de cabello, Manicure|Efectivo|270.00
+26/11/2026|Fernanda|Regina|Corte de cabello|Tarjeta|150.00
+26/11/2026|Fernanda|Ximena|Aplicacion de tinte, Peinado|Tarjeta|650.00
+27/11/2026|Fernanda|Ary|Corte de cabello|Efectivo|150.00
+27/11/2026|Fernanda|Yvonne|Corte de cabello, Corte de cabello, Corte de cabello|Tarjeta|450.00
+27/11/2026|Fernanda|Ana|Corte de cabello|Efectivo|150.00
